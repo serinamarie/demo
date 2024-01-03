@@ -6,5 +6,5 @@ def tired_flow():
     print("I'm so tired...")
     sleep(1)
     for i in range(10):
-        print("Sleeping for 19 hours...")
+        print("Sleeping for 18 hours...")
         sleep(90000)
